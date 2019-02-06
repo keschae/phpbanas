@@ -127,6 +127,9 @@ EOD;
 			echo "</br></br>5 + 2 = " . (5 + 2);
 			echo "</br>5 - 2 = " . (5 - 2);
 			echo "</br>5 * 2 = " . (5 * 2);
+
+			echo "</br>5 * 2 = " . (5 * 2);
+
 			
 			// You can cast from 1 type to another like this
 			echo "</br>5 / 2 = " . (integer) (5 / 2);
