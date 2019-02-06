@@ -1,5 +1,6 @@
 <?php
   echo "<pre>"; // Enables viewing of the spaces
+  // change
 
   $h = 'Rasmus';
 
