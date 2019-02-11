@@ -10,6 +10,8 @@
 	it can do (Operations / Functions / Methods) You define those 
 	things in a class which is a blueprint for creating
 	objects.
+	
+	Another commnt...
 */
 class Animal implements Singable{
 
